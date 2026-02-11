@@ -1,0 +1,123 @@
+git-ai-browser-extension/src/shared/types/metrics.types.ts
+  86e0af6a49e34230 1-57
+git-ai-browser-extension/tsconfig.json
+  86e0af6a49e34230 1-20
+git-ai-metrics-server/Dockerfile
+  86e0af6a49e34230 1-30
+git-ai-metrics-server/src/controllers/pr.controller.ts
+  86e0af6a49e34230 1-74
+git-ai-browser-extension/README.md
+  86e0af6a49e34230 1-321
+git-ai-metrics-server/API_USAGE.md
+  86e0af6a49e34230 1-190
+git-ai-metrics-server/src/services/repo-manager.service.ts
+  86e0af6a49e34230 1-297
+git-ai-metrics-server/.dockerignore
+  86e0af6a49e34230 1-13
+git-ai-browser-extension/src/popup/Popup.tsx
+  86e0af6a49e34230 1-474
+git-ai-metrics-server/src/clients/gitlab.client.ts
+  86e0af6a49e34230 1-108,110-232
+git-ai-metrics-server/src/types/dp-modules.d.ts
+  86e0af6a49e34230 1-39
+git-ai-browser-extension/src/popup/Popup.css
+  86e0af6a49e34230 1-219
+git-ai-browser-extension/src/content/index.tsx
+  86e0af6a49e34230 1-95
+git-ai-metrics-server/jest.config.js
+  86e0af6a49e34230 1-12
+git-ai-metrics-server/src/services/auth-manager.service.ts
+  86e0af6a49e34230 1-5,7,10,36,39-40,46,49,51,56,58,65,67-72,75-77,80-94,102,104,107,109-111,114-123,125-129,132-135,137-138,143-145,152-153,155-156,158,163,173-175
+git-ai-metrics-server/tests/integration/api.test.ts
+  86e0af6a49e34230 1-15
+git-ai-metrics-server/.gitignore
+  86e0af6a49e34230 1-32
+git-ai-browser-extension/webpack.config.js
+  86e0af6a49e34230 1-43
+git-ai-browser-extension/src/content/detectors/base.detector.ts
+  86e0af6a49e34230 1-38
+git-ai-browser-extension/src/popup/index.html
+  86e0af6a49e34230 1-21
+git-ai-metrics-server/src/config/index.ts
+  86e0af6a49e34230 1-72
+git-ai-metrics-server/src/controllers/repo.controller.ts
+  86e0af6a49e34230 1-95
+git-ai-metrics-server/src/app.ts
+  86e0af6a49e34230 1-153
+git-ai-browser-extension/public/icons/README.md
+  86e0af6a49e34230 1-39
+git-ai-browser-extension/src/shared/api/backend.client.ts
+  86e0af6a49e34230 1-148
+git-ai-browser-extension/src/content/renderers/MetricsCard.css
+  86e0af6a49e34230 1-299
+git-ai-browser-extension/src/content/injectors/commit-page.injector.ts
+  86e0af6a49e34230 1-126
+git-ai-browser-extension/src/background/service-worker.ts
+  86e0af6a49e34230 1-69
+git-ai-browser-extension/.gitignore
+  86e0af6a49e34230 1-21
+git-ai-metrics-server/src/services/metrics.service.ts
+  86e0af6a49e34230 1-255
+git-ai-browser-extension/package.json
+  86e0af6a49e34230 1-34
+git-ai-metrics-server/README.md
+  86e0af6a49e34230 1-438
+git-ai-browser-extension/src/content/injectors/pr-page.injector.ts
+  86e0af6a49e34230 1-288
+git-ai-metrics-server/src/types/git-ai-notes.types.ts
+  86e0af6a49e34230 1-130
+git-ai-metrics-server/AUTHENTICATION.md
+  86e0af6a49e34230 1-214
+git-ai-browser-extension/src/manifest.json
+  86e0af6a49e34230 1-30
+git-ai-browser-extension/src/content/renderers/CommitMetricsBadge.tsx
+  86e0af6a49e34230 1-66
+git-ai-browser-extension/src/shared/utils/dom.utils.ts
+  86e0af6a49e34230 1-80
+git-ai-metrics-server/src/types/api.types.ts
+  86e0af6a49e34230 1-60
+git-ai-metrics-server/package.json
+  86e0af6a49e34230 1-43
+git-ai-metrics-server/src/utils/logger.ts
+  86e0af6a49e34230 1-47
+git-ai-metrics-server/nodemon.json
+  86e0af6a49e34230 1-6
+git-ai-metrics-server/src/controllers/commit.controller.ts
+  86e0af6a49e34230 1-40
+git-ai-metrics-server/tests/unit/git-notes.service.test.ts
+  86e0af6a49e34230 1-15
+git-ai-browser-extension/src/content/renderers/PRMetricsCard.tsx
+  86e0af6a49e34230 1-158
+git-ai-metrics-server/src/services/git-notes.service.ts
+  86e0af6a49e34230 1-44,46-210
+git-ai-metrics-server/tsconfig.json
+  86e0af6a49e34230 1-22
+git-ai-metrics-server/CONFIGURATION.md
+  86e0af6a49e34230 1-260
+git-ai-metrics-server/src/services/cache.service.ts
+  86e0af6a49e34230 1-165
+git-ai-browser-extension/src/content/detectors/gitlab.detector.ts
+  86e0af6a49e34230 1-21,23-132
+git-ai-metrics-server/src/utils/errors.ts
+  86e0af6a49e34230 1-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.1",
+  "base_commit_sha": "71b5cc4b81d9527a40db9968f550cc025772a067",
+  "prompts": {
+    "86e0af6a49e34230": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5a6fcc2d-5159-4400-a454-6c9ef8bc2c1f",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "jiangyulin03 <jiangyulin03@meituan.com>",
+      "messages": [],
+      "total_additions": 7995,
+      "total_deletions": 791,
+      "accepted_lines": 7445,
+      "overriden_lines": 3
+    }
+  }
+}
